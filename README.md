@@ -55,6 +55,4 @@ npm start
 
 Интерфейс откроется в браузере по адресу: [http://localhost:3000](http://localhost:3000)
 
-```
-
 
