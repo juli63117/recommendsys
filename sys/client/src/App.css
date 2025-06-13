@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+.App-content {
+  flex: 1;
+  padding: 20px;
+}
+
+.App-footer {
+  background-color: #282c34;
+  padding: 10px;
+  color: white;
+}

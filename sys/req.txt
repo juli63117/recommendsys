@@ -1,0 +1,6 @@
+pandas
+numpy
+faker
+flask
+scikit-learn
+category_encoders
